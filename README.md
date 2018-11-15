@@ -39,7 +39,7 @@ for @list -> $color {
 
 Call test/test.p6
 
-![test](https://raw.githubusercontent.com/ccworld1000/CCColor/master/doc/sceenshot/test.png)
+![test](https://raw.githubusercontent.com/ccworld1000/CCColor/master/doc/screenshot/test.png)
 
 
 
@@ -51,12 +51,5 @@ Call test/test.p6
 ## Network install
     zef update
     zef install CCColor
-
-
-
-
-
-
-
 
 
