@@ -53,3 +53,7 @@ Call test/test.p6
     zef install CCColor
 
 
+
+##HEX Color
+
+![colors](https://raw.githubusercontent.com/ccworld1000/CCColor/master/doc/screenshot/colors.png)
